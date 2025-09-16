@@ -18,7 +18,7 @@
 body {
     color: var(--branco);
     background-color: var(--cor-de-fundo);
-    font-family: var(--Médio 500 Itálico);
+    font-family: var(--roboto);
 }
 
 .titulo-principal {
